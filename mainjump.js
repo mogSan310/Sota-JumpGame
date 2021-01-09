@@ -4,7 +4,7 @@ const stageHeight=300;
 
 
 let player = new Image();
-player.src="img/blacksquare.png";
+player.src="blacksquare.png";
 
 //画像を動かす
 let gazo = { x: 500, y: 300 };//画像の初期位置
