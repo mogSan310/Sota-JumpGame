@@ -6,6 +6,7 @@ body{
 
 .btn-start {
     display: block;
+    background-color:white;
     margin-left: 100px;
     font-weight: bold;
     position:absolute;
@@ -19,6 +20,7 @@ body{
 
 .btn-restart {
     display: block;
+    background-color:white;
     margin-left: 100px;
     font-weight: bold;
     position:absolute;
